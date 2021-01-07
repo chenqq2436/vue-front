@@ -6,7 +6,7 @@
         {{ user.id }} -- {{ user.name }} ~~~
       </li>
     </ul>
-    <h2>docker 真香</h2>
+    <h2>docker 真香+++</h2>
   </div>
 </template>
 
