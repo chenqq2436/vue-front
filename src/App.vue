@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    hello CI/CD
     <ul>
       <li v-for="user in users" :key="user.id">
         {{ item.id }} -- {{ user.name }} ~~~
