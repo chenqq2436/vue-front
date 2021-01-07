@@ -2,7 +2,7 @@
   <div id="app">
     <ul>
       <li v-for="user in users" :key="user.id">
-        {{ item.id }} -- {{ user.name }}
+        {{ item.id }} -- {{ user.name }} ~~~
       </li>
     </ul>
   </div>
