@@ -3,9 +3,10 @@
     hello CI/CD
     <ul>
       <li v-for="user in users" :key="user.id">
-        {{ item.id }} -- {{ user.name }} ~~~
+        {{ user.id }} -- {{ user.name }} ~~~
       </li>
     </ul>
+    <h2>docker 真香</h2>
   </div>
 </template>
 
