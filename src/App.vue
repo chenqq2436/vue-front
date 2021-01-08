@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>------hello CI/CD------</h1>
-    <h3>人员列表:</h3>
+    <h3>接口返回的人员列表：</h3>
     <ul>
       <li v-for="user in users" :key="user.id">
         {{ user.id }} -- {{ user.name }} ~~~
